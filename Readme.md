@@ -8,7 +8,7 @@
   - RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning, **NeurIPS 2020**
   - Diverse Image Captioning with Context-Object Split Latent Spaces, **NeurIPS 2020**
 - 2020.02.01 Liang Dong:
-  - Differentiable Augmentationfor Data-Efficient GAN Training, **NeurIPS 2020**
+  - [Differentiable Augmentationfor Data-Efficient GAN Training](./2021/2021-02-01-Liang_Dong-NeurIPS2020-Differentiable_Augmentationfor_Data-Efficient_GAN_Training.pdf), **NeurIPS 2020**
   - [Multi-type Disentanglement without Adversarial Training](./2021/2021-02-01-Liang_Dong-AAAI2021_Multi-type_Disentanglement_without_Adversarial_Training.pptx), **AAAI 2021**
 
 ## Year 2020
