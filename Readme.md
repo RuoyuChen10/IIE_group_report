@@ -10,10 +10,14 @@
   - Unfolding the Alternating Optimization for Blind Super Resolution, **NeurIPS 2020**
 - 2020.02.03 Lv Feixiao:
   - [RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-03-Lv_Feixiao-NeurlPS2020-RATT%20_Recurrent_Attention_to_Transient_Tasks_for_Continual_Image_Captioning.pptx), **NeurIPS 2020**
-  - [Diverse Image Captioning with Context-Object Split Latent Spaces](./2021/2021-02-03-Lv_Feixiao-NeurlPS2020-Diverse_Image_Captioning_with_Context-Object_Split_Latent_Spaces.pptx), **NeurIPS 2020**
+  - [Diverse Image Captioning with Context-Object Split Latent Spaces](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-03-Lv_Feixiao-NeurlPS2020-Diverse_Image_Captioning_with_Context-Object_Split_Latent_Spaces.pptx), **NeurIPS 2020**
 - 2020.02.01 Liang Dong:
-  - [Differentiable Augmentationfor Data-Efficient GAN Training](./2021/2021-02-01-Liang_Dong-NeurIPS2020-Differentiable_Augmentationfor_Data-Efficient_GAN_Training.pdf), **NeurIPS 2020**
-  - [Multi-type Disentanglement without Adversarial Training](./2021/2021-02-01-Liang_Dong-AAAI2021_Multi-type_Disentanglement_without_Adversarial_Training.pptx), **AAAI 2021**
+  - [Differentiable Augmentationfor Data-Efficient GAN Training](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-01-Liang_Dong-NeurIPS2020-Differentiable_Augmentationfor_Data-Efficient_GAN_Training.pdf), **NeurIPS 2020**
+  - [Multi-type Disentanglement without Adversarial Training](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-01-Liang_Dong-AAAI2021_Multi-type_Disentanglement_without_Adversarial_Training.pptx), **AAAI 2021**
+- 2020.01.05 Zhang Sanyi:
+
+  - [Deep Variational Instance Segmentation](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-01-05-Zhang_Sanyi-NeurIPS2020-Deep_Variational_Instance_Segmentation.pptx), **NeurIPS 2020**
+  - [SOLOv2: Dynamic and Fast Instance Segmentation](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-01-05-Zhang_Sanyi-NeurIPS2020-SOLOv2_Dynamic_and_Fast_Instance_Segmentation.pptx), **NeurIPS 2020**
 
 ## Year 2020
 
