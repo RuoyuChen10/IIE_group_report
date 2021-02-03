@@ -9,7 +9,7 @@
   - LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-Resolution and Beyond, **NeurIPS 2020**
   - Unfolding the Alternating Optimization for Blind Super Resolution, **NeurIPS 2020**
 - 2020.02.03 Lv Feixiao:
-  - [RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning](./2021/2021-02-03-Lv_Feixiao-NeurlPS2020-RATT _Recurrent_Attention_to_Transient_Tasks_for_Continual_Image_Captioning.pptx), **NeurIPS 2020**
+  - [RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-03-Lv_Feixiao-NeurlPS2020-RATT%20_Recurrent_Attention_to_Transient_Tasks_for_Continual_Image_Captioning.pptx), **NeurIPS 2020**
   - [Diverse Image Captioning with Context-Object Split Latent Spaces](./2021/2021-02-03-Lv_Feixiao-NeurlPS2020-Diverse_Image_Captioning_with_Context-Object_Split_Latent_Spaces.pptx), **NeurIPS 2020**
 - 2020.02.01 Liang Dong:
   - [Differentiable Augmentationfor Data-Efficient GAN Training](./2021/2021-02-01-Liang_Dong-NeurIPS2020-Differentiable_Augmentationfor_Data-Efficient_GAN_Training.pdf), **NeurIPS 2020**
