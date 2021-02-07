@@ -9,8 +9,8 @@
   - Robust reinforcement learning on state observations with learned optimal adversary, **ICLR 2021**
 
 - 2020.02.06 Yan YanYang:
-  - LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-Resolution and Beyond, **NeurIPS 2020**
-  - Unfolding the Alternating Optimization for Blind Super Resolution, **NeurIPS 2020**
+  - [LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-Resolution and Beyond](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-06-Yan_Yanyang-NeurIPS2020-LAPAR_Linearly-Assembled_Pixel-Adaptive_Regression_Network_for_Single_Image_Super-resolution_and_Beyond.pptx), **NeurIPS 2020**
+  - [Unfolding the Alternating Optimization for Blind Super Resolution](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-06-Yan_Yanyang-NeurIPS2020-Unfolding_the_Alternating_Optimization_for_Blind_Super_Resolution.pptx), **NeurIPS 2020**
 
 - 2020.02.03 Lv Feixiao:
   - [RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning](https://github.com/RuoyuChen10/IIE_group_report/blob/master/2021/2021-02-03-Lv_Feixiao-NeurlPS2020-RATT%20_Recurrent_Attention_to_Transient_Tasks_for_Continual_Image_Captioning.pptx), **NeurIPS 2020**
